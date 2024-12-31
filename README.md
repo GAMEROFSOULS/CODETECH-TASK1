@@ -26,7 +26,7 @@ The project includes the following features:
 **GPA calculation: Calculates the GPA based on the average grade using a 4.0 scale.**
 
 **Features**
-**Add Grade: Users can add grades for specific subjects, which are stored and tracked.
+**Add Grade: Users can add grades for specific subjects, which are stored and tracked.**
 **Display Grades: Users can view all grades, average grade, letter grade, and GPA.**
 **GPA and Grade Calculation: Automatic GPA calculation based on grade scale.**
 
@@ -35,13 +35,6 @@ The project includes the following features:
 **Tkinter: A Python library for creating graphical user interfaces (GUIs).**
 
 
-
-student-grades-tracker/
-│
-├── grade_tracker.py          # Main application script
-├── README.md                # This README file
-├── LICENSE                  # Project License (if applicable)
-└── requirements.txt         # List of required Python packages (if any)
 
 
 
